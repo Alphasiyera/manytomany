@@ -1,0 +1,7 @@
+package com.example.manytomany.model;
+
+import lombok.Data;
+
+@Data
+public class DepartmentRequest {
+}
